@@ -1,1 +1,1 @@
-# service-berupa-CLI
+# service CLI in Golang
