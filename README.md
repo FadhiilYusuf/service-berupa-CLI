@@ -1,6 +1,6 @@
 # Service CLI in Golang
 
-Menampilkan Data <br>
+Data yang harus ditampilkan yaitu: <br>
 
 1. Nama<br>
 2. Alamat<br>
